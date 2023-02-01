@@ -1,6 +1,6 @@
 <template>
     <span>
-        {{ logo }}
+        <img src="" alt="" srcset=""> 
     </span>
 </template>
 <script>
