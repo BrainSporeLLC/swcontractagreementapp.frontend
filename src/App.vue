@@ -8,7 +8,7 @@
 import LogoComponent from '@LogoComponent.vue';
 export default {
   components: {
-    
+    LogoComponent
   }
 }
 
