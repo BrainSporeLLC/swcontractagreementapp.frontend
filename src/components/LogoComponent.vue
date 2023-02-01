@@ -4,7 +4,7 @@
     </span>
 </template>
 <script>
- import logo from "../../public/meta ajax-02.png";
+ import logo from "../../public/meta-ajax-02.png";
 
  export default {
   data(){
