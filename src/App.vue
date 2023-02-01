@@ -5,5 +5,5 @@
 </template>
 
 <script>
-
+ import logo from "../public/mata/PNG(transparent background)/meta ajax-02.png";
 </script>
