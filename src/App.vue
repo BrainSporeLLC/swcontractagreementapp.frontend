@@ -5,6 +5,6 @@
 </template>
 
 <script>
-import LogoComponent from './components/LogoComponent.vue';
+import LogoComponent from '@LogoComponent.vue';
 
 </script>
