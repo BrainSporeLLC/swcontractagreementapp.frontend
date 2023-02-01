@@ -4,3 +4,7 @@
   </div>
 </template>
 
+<script>
+import LogoComponent from './components/LogoComponent.vue';
+
+</script>
