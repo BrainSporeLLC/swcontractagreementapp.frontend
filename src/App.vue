@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import LogoComponent from '@LogoComponent.vue';
+import LogoComponent from './components/LogoComponent.vue';
 export default {
   components: {
     LogoComponent
