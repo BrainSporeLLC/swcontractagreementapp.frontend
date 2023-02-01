@@ -1,6 +1,6 @@
 <template>
     <span>
-        <img src="" alt="" srcset=""> 
+        <img :src="logo" alt="BrainSpore LLC Logo" srcset=""> 
     </span>
 </template>
 <script>
