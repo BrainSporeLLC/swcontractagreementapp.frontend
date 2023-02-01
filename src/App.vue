@@ -1,6 +1,6 @@
 <template>
   <div id="header" >
-      
+      <LogoComponent />
   </div>
 </template>
 
